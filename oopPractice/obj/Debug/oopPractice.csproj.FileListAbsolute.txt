@@ -1,0 +1,8 @@
+D:\Programs\Projects\cs\oopPractice\oopPractice\bin\Debug\oopPractice.exe.config
+D:\Programs\Projects\cs\oopPractice\oopPractice\bin\Debug\oopPractice.exe
+D:\Programs\Projects\cs\oopPractice\oopPractice\bin\Debug\oopPractice.pdb
+D:\Programs\Projects\cs\oopPractice\oopPractice\obj\Debug\oopPractice.csproj.AssemblyReference.cache
+D:\Programs\Projects\cs\oopPractice\oopPractice\obj\Debug\oopPractice.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Projects\cs\oopPractice\oopPractice\obj\Debug\oopPractice.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\cs\oopPractice\oopPractice\obj\Debug\oopPractice.exe
+D:\Programs\Projects\cs\oopPractice\oopPractice\obj\Debug\oopPractice.pdb
